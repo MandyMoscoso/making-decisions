@@ -96,7 +96,7 @@ for  (i = 1; i<=10; i++){
 */
 
 //CODE HERE
-for  (i = 0; i<10; i++){
+for  (i = 0; i<=10; i++){
   console.log(10-i)
 }
 
